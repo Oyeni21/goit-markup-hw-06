@@ -804,6 +804,7 @@ ul {
     font-size: 14px;
     border: 1px solid var(--navyblue);
     resize: none;
+    margin-top: 4px;
 
     transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
