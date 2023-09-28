@@ -761,7 +761,7 @@ ul {
 .form-label-text {
     position: absolute;
     top: -16px;
-    bottom: 4px;
+   
 
     color: var(--lightslate); 
     font-size: 12px;
@@ -777,7 +777,7 @@ ul {
     height: 40px;
     flex-shrink: 0; 
     padding-left: 40px;
-    
+    margin-top: 4px;
 
     border-radius: 4px;
     border: 1px solid var(--navyblue);
